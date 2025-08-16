@@ -1,4 +1,5 @@
-# MTPrior: A multi-task hierarchical graph embedding framework for prioritizing Hepatocellular Carcinoma associated genes and long non-coding RNA
+# [MTPrior: A multi-task hierarchical graph embedding framework for prioritizing Hepatocellular Carcinoma associated genes and long non-coding RNA](https://github.com/zpliulab/MTPrior)
+ 
 
 ![MTPrior Framework](GraphicalAbstract.png)
 ### MTPrior:
