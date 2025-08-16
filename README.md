@@ -1,6 +1,7 @@
 # MTPrior: A multi-task hierarchical graph embedding framework for prioritizing Hepatocellular Carcinoma associated genes and long non-coding RNA
 
-### Highlights:
+
+### MTPrior:
 A novel multi-task graph embedding model to prioritize disease-associated coding and noncoding RNAs, including lncRNAs and genes, by accounting for their interactions.  
 The model adapts to various tasks and refines network structures to enhance prediction. 
 Extensive validation shows its superior performance in identifying HCC-related genes and lncRNAs compared to state-of-the-art methods.
@@ -39,3 +40,5 @@ The serial number (1) (2) ... (10) represents the order in which the program run
 		Plot using different classification method, 
 		Plot Ablation study results, 
 		Plot distributation of results
+### Citation:
+F. Keikha and Z. -P. Liu, "MTPrior: A Multi-Task Hierarchical Graph Embedding Framework for Prioritizing Hepatocellular Carcinoma-Associated Genes and Long Noncoding RNAs," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2025.3584342. 
